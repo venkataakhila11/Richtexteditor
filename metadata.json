@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Rich Text Editor",
+  "description": "A sophisticated rich text editor featuring Google Gemini integration for smart rewriting, summarization, and content generation.",
+  "requestFramePermissions": []
+}
